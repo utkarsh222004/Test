@@ -1,0 +1,3 @@
+Hadoop is an open-source framework
+It helps in processing big data
+MapReduce is a core component of Hadoop
